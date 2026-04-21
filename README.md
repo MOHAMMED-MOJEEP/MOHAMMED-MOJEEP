@@ -43,7 +43,18 @@
   </a>
 </p>
 
-> **Engineering Excellence:** I focus on writing **clean code** and implementing **robust architectures** to deliver scalable and high-performance digital solutions.
+---
+
+## 🚀 Latest Projects
+<div align="center">
+
+| Project Name | Tech Stack | Status | Link |
+| :--- | :--- | :--- | :--- |
+| **Project One** | `Flutter` `Firebase` | 🟢 Completed | [View Repo](https://github.com/MOHAMMED-MOJEEP) |
+| **Project Two** | `Laravel` `React` | 🟡 In Progress | [View Repo](https://github.com/MOHAMMED-MOJEEP) |
+| **Project Three** | `Flutter` `Node.js` | 🔵 Architecture | [View Repo](https://github.com/MOHAMMED-MOJEEP) |
+
+</div>
 
 ---
 
