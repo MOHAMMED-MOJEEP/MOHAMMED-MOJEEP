@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:4CA1AF&height=220&section=header&text=MOHAMMED%20MOJEEP&fontSize=50&fontAlignY=35&desc=Full%20Stack%20%7C%20Flutter%20Developer&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=MOHAMMED%20MOJEEP&fontSize=50&fontAlignY=35&desc=Full%20Stack%20%7C%20Flutter%20Developer&descAlignY=55&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CA1AF&center=true&vCenter=true&width=500&lines=Hi+I'm+Mohammed+Mojeep;Full+Stack+Developer;Flutter+Developer;Welcome+to+my+GitHub+Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Hi+I'm+Mohammed+Mojeep;Full+Stack+Developer;Flutter+Developer;Welcome+to+my+GitHub+Profile" />
 </p>
 
 ---
@@ -25,21 +25,21 @@
 ### 🌐 Web Development (Frontend)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,bootstrap,tailwind&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,bootstrap,tailwind" />
   </a>
 </p>
 
 ### 🚀 Mobile & Backend Architecture
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,php,laravel,dotnet,aspnet&theme=light" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,php,laravel,dotnet,aspnet" />
   </a>
 </p>
 
 ### 🧰 Databases & Modern Workflow
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,mysql,postgres,mongodb,git,github,vscode,postman,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=firebase,mysql,postgres,mongodb,git,github,vscode,postman,figma" />
   </a>
 </p>
 
@@ -53,24 +53,24 @@ Feel free to reach out to me directly via WhatsApp or Email:
 
 <p align="center">
   <a href="https://wa.me/967772067777" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-772067777-4CA1AF?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-772067777-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://wa.me/967782807337" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-782807337-4CA1AF?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-782807337-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
   <a href="mailto:mohammedmojeep7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mohammedmojeep7%40gmail.com-2C3E50?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-mohammedmojeep7%40gmail.com-0078D4?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MOHAMMED-MOJEEP&label=Profile%20Views&color=4CA1AF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=MOHAMMED-MOJEEP&label=Profile%20Views&color=2C5364&style=flat-square" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4CA1AF,100:2C3E50&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
