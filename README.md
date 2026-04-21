@@ -1,6 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6499E9,100:0F2027&height=200&section=header&text=MOHAMMED%20MOJEEP&fontSize=40&fontAlignY=35&desc=Full%20Stack%20%7C%20Flutter%20Developer&descAlignY=55&animation=fadeIn" />
 
-<br />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Mohammed+Mojeep;Full+Stack+Developer;Flutter+Developer;Welcome+to+my+GitHub+Profile" />
+</p>
+
+---
 
 ## 👋 Hi, I'm Mohammed Mojeep
 
@@ -9,13 +13,13 @@
 
 ---
 
-## 🌐 Socials:
+## 🌍 About Me
 
-<div align="center">
-
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-</div>
+* 🇾🇪 From Yemen
+* 💻 Passionate about coding and problem solving
+* 📱 Flutter Developer
+* 🌐 Web Developer
+* 🔥 Always learning new technologies
 
 ---
 
@@ -23,9 +27,7 @@
 
 <div align="center">
 
-<a href="#" target="_blank">
 <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,bootstrap,tailwind,nodejs,php,laravel,aspnet,mysql,postgres,mongodb,firebase,flutter,dart&perline=8" />
-</a>
 
 </div>
 
@@ -35,8 +37,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MOHAMMED-MOJEEP&theme=radical&show_icons=true">
-<img src="https://nirzak-streak-stats.vercel.app?user=MOHAMMED-MOJEEP&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=MOHAMMED-MOJEEP&show_icons=true&theme=tokyonight" />
+<img src="https://nirzak-streak-stats.vercel.app?user=MOHAMMED-MOJEEP&theme=tokyonight" />
 
 </div>
 
@@ -58,7 +60,7 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=MOHAMMED-MOJEEP&color=red" />
+<img src="https://komarev.com/ghpvc/?username=MOHAMMED-MOJEEP&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:6499E9&height=120&section=footer"/>
