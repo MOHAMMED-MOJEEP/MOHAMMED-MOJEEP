@@ -1,10 +1,4 @@
 
-
-ترقية
-
-مشاركة
-Lite
-عذراً، يبدو أن محتوى ملف README.md الحالي لم يرفق في رسالتك السابقة. يرجى تزويدي بنص الملف أو توضيح تفاصيل المشروع (اسمه، لغات البرمجة المستخدمة، والوظائف الأساسية) حتى أتمكن من البدء فوراً في صياغة النسخة الاحترافية والمطورة لك.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6499E9,100:0F2027&height=200&section=header&text=MOHAMMED%20MOJEEP&fontSize=40&fontAlignY=35&desc=Full%20Stack%20%7C%20Flutter%20Developer&descAlignY=55&animation=fadeIn" />
 
 <p align="center">
