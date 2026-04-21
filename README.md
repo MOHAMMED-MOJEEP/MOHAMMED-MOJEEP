@@ -1,42 +1,45 @@
 # 👋 Hi, I'm Mohammed Mojeep
 
 🚀 **Full Stack Web & Flutter Developer**
-💡 Passionate about building scalable web apps and cross-platform mobile experiences
+💡 Building scalable web apps & cross-platform mobile experiences
 
 ---
 
-## 🧑‍💻 About Me
+## 🌍 About Me
 
-* 🌍 From Yemen
-* 💻 I love turning ideas into real-world applications
-* 📱 متخصص في تطوير تطبيقات Flutter والمواقع الحديثة
-* 🔥 أتعلم باستمرار وأطور مهاراتي
+* 🇾🇪 From Yemen
+* 💻 Passionate about coding and problem solving
+* 📱 Flutter Developer
+* 🌐 Web Developer
+* 🔥 Always learning new technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
+### 🚀 Languages
 
-* HTML, CSS, JavaScript
-* Responsive Design
-* Flutter (Mobile UI)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 
-### ⚙️ Backend
+### ⚙️ Frameworks & Tools
 
-* Node.js (Basic)
-* REST APIs
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge\&logo=flutter)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-dark?style=for-the-badge\&logo=github)
 
-### 🗄️ Database
+---
 
-* Firebase
-* MongoDB (Basic)
+## 📊 GitHub Stats
 
-### 🧰 Tools
+![Stats](https://github-readme-stats.vercel.app/api?username=MOHAMMED-MOJEEP\&show_icons=true\&theme=tokyonight)
 
-* Git & GitHub
-* VS Code
-* Figma
+---
+
+## 🔥 Streak Stats
+
+![Streak](https://streak-stats.demolab.com?user=MOHAMMED-MOJEEP\&theme=tokyonight)
 
 ---
 
@@ -49,24 +52,12 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHAMMED-MOJEEP\&show_icons=true\&theme=tokyonight)
-
----
-
-## 🔥 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMMED-MOJEEP\&layout=compact\&theme=tokyonight)
-
----
-
 ## 📫 Contact Me
 
-* 📧 Email: [mohammedmojeep7@gmail.com](mailto:mohammedmojeep7@gmail.com)
+* 📧 [mohammedmojeep7@gmail.com](mailto:mohammedmojeep7@gmail.com)
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Quote
 
-> I don’t just write code… I build experiences 🚀
+> "Code is not just code… it's creativity turned into reality." 🚀
