@@ -8,61 +8,70 @@
 
 ## 👋 About Me
 
-🚀 **Full Stack Web & Flutter Developer**  
-🇾🇪 From Yemen  
+🚀 Full Stack Web & Flutter Developer
+🇾🇪 From Yemen
 
-- 💻 Passionate about coding & problem solving  
-- 📱 Building cross-platform apps with Flutter  
-- 🌐 Developing modern web applications  
-- 🔥 Always learning new technologies  
+* 💻 Passionate about coding & problem solving
+* 📱 Flutter Developer
+* 🌐 Web Developer
+* 🔥 Always learning new technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,bootstrap,tailwind" />
 </p>
 
+---
+
 ### ⚙️ Backend
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,aspnet" />
 </p>
 
+---
+
 ### 🗄️ Databases
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
 </p>
 
+---
+
 ### 📱 Mobile Development
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MOHAMMED-MOJEEP&show_icons=true&theme=tokyonight" />
-  <img src="https://nirzak-streak-stats.vercel.app?user=MOHAMMED-MOJEEP&theme=tokyonight" />
-</p>
-
----
-
 ## 📌 Featured Projects
 
-- 🛍️ Clothing Store Website  
-- 🍎 Fruit Shop Website  
-- 🪑 Furniture Store Website  
-- ☕ Cafe Introduction Website  
+<div align="center">
+
+| Project            | Description         |
+| ------------------ | ------------------- |
+| 🛍️ Clothing Store | E-commerce website  |
+| 🍎 Fruit Shop      | Modern UI shop      |
+| 🪑 Furniture Store | Elegant design      |
+| ☕ Cafe Website     | Simple landing page |
+
+</div>
 
 ---
 
 ## 📫 Contact Me
 
-📧 **Email:** [mohammedmojeep7@gmail.com](mailto:mohammedmojeep7@gmail.com)
+<p align="center">
+  📧 <a href="mailto:mohammedmojeep7@gmail.com">mohammedmojeep7@gmail.com</a>
+</p>
 
 ---
 
