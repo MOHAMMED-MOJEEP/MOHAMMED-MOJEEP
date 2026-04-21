@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=MOHAMMED%20MOJEEP&fontSize=50&fontAlignY=35&desc=Full%20Stack%20%7C%20Flutter%20Developer&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00172D,70:0083B0,100:00B4DB&height=240&section=header&text=MOHAMMED%20MOJEEP&fontSize=50&fontAlignY=35&desc=Full%20Stack%20%7C%20Flutter%20Developer&descAlignY=55&animation=twinkling" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Hi+I'm+Mohammed+Mojeep;Full+Stack+Developer;Flutter+Developer;Welcome+to+my+GitHub+Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Mohammed+Mojeep;Full+Stack+Developer;Flutter+Developer;Welcome+to+my+GitHub+Profile" />
 </p>
 
 ---
@@ -63,14 +63,14 @@ Feel free to reach out to me directly via WhatsApp or Email:
 
 <p align="center">
   <a href="mailto:mohammedmojeep7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mohammedmojeep7%40gmail.com-0078D4?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-mohammedmojeep7%40gmail.com-00B4DB?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MOHAMMED-MOJEEP&label=Profile%20Views&color=2C5364&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=MOHAMMED-MOJEEP&label=Profile%20Views&color=0083B0&style=flat-square" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,70:0083B0,100:00172D&height=120&section=footer"/>
