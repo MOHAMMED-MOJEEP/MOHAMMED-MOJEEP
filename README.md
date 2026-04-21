@@ -8,64 +8,55 @@
 
 ## 👋 About Me
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      🚀 <b>Full Stack Web & Flutter Developer</b><br>
-      🇾🇪 From Yemen, Sana'a<br><br>
-      * 💻 Passionate about coding & problem solving<br>
-      * 📱 Specialized in high-performance Mobile Apps<br>
-      * 🌐 Building scalable Web Applications<br>
-      * 🔥 Always learning new technologies
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=MOHAMMED-MOJEEP&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+🚀 <b>Full Stack Web & Flutter Developer</b><br>
+🇾🇪 <b>From Yemen, Sana'a</b>
+</p>
+
+* 💻 **Passionate** about coding & problem solving.
+* 📱 Specialized in developing **high-performance** Mobile Applications.
+* 🌐 Expert in building **scalable and maintainable** Web Applications.
+* 🔥 Continuously learning and integrating new **cutting-edge technologies**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Universe
 
-### 💻 Development Universe
+### 🚀 Core Technologies & Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,express,laravel,php,dotnet" />
+  </a>
+</p>
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,bootstrap,tailwind" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,aspnet" /> |
-| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" /> |
+### 🧰 Tools & Modern Workflow
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,mysql,postgres,mongodb,git,docker,github,vscode,postman,figma" />
+  </a>
+</p>
 
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-| Project | Preview | Description |
-| :--- | :---: | :--- |
-| 🛍️ **Clothing Store** | [Link](#) | Full-featured E-commerce platform |
-| 🍎 **Fruit Shop** | [Link](#) | Modern UI/UX implementation |
-| 🪑 **Furniture Store** | [Link](#) | Elegant & Responsive design |
-| ☕ **Cafe Website** | [Link](#) | Minimalist landing page for businesses |
-
-</div>
+> **Continuous Integration & Delivery:** Experienced in setting up **CI/CD pipelines** to ensure code quality and seamless deployment.
 
 ---
 
 ## 📫 Quick Contact
 
+يمكنك التواصل معي مباشرة عبر الأرقام التالية (نقر مباشر للواتساب):
+
 <p align="center">
   <a href="https://wa.me/967772067777" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp%201-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp 1" />
+    <img src="https://img.shields.io/badge/WhatsApp-772067777-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://wa.me/967782807337" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp%202-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp 2" />
+    <img src="https://img.shields.io/badge/WhatsApp-782807337-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
   <a href="mailto:mohammedmojeep7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-mohammedmojeep7%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
