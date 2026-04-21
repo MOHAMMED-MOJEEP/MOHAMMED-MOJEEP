@@ -1,87 +1,311 @@
-# 👋 Hi, I'm Mohammed Mojeep
 
-🚀 **Full Stack Web & Flutter Developer**
-💡 Building scalable web apps & cross-platform mobile experiences
 
----
 
-## 🌍 About Me
 
-* 🇾🇪 From Yemen
-* 💻 Passionate about coding and problem solving
-* 📱 Flutter Developer
-* 🌐 Web Developer
-* 🔥 Always learning new technologies
 
----
+جدول المحتويات
 
-## 🛠️ Tech Stack
+•
+👋 مرحباً، أنا محمد مجيب
 
-### 🚀 Frontend
+•
+🌍 عني
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
-![Vue](https://img.shields.io/badge/Vue-green?style=for-the-badge\&logo=vue.js)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge\&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge\&logo=tailwind-css)
+•
+🛠️ المهارات التقنية
 
----
+•
+🚀 الواجهة الأمامية (Frontend)
 
-### ⚙️ Backend
+•
+⚙️ الواجهة الخلفية (Backend)
 
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
-![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge\&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge\&logo=laravel)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-purple?style=for-the-badge\&logo=dotnet)
+•
+🗄️ قواعد البيانات والخدمات
 
----
+•
+📱 تطوير تطبيقات الجوال
 
-### 🗄️ Databases & Services
 
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
-![SQL Server](https://img.shields.io/badge/SQL_Server-red?style=for-the-badge\&logo=microsoftsqlserver)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge\&logo=firebase)
 
----
+•
+📊 إحصائيات GitHub
 
-### 📱 Mobile Development
+•
+🔥 إحصائيات النشاط (Streak Stats)
 
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge\&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge\&logo=dart)
+•
+📌 مشاريع مميزة
 
----
+•
+📫 تواصل معي
 
-## 📊 GitHub Stats
+•
+⚡ اقتباس
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MOHAMMED-MOJEEP\&show_icons=true\&theme=tokyonight)
+👋 مرحباً، أنا محمد مجيب
 
----
+🚀 مطور ويب وفلاتر متكامل (Full Stack Web & Flutter Developer)
 
-## 🔥 Streak Stats
+💡 أعمل على بناء تطبيقات ويب قابلة للتطوير وتجارب جوال متعددة المنصات.
 
-![Streak](https://streak-stats.demolab.com?user=MOHAMMED-MOJEEP\&theme=tokyonight)
 
----
 
-## 📌 Featured Projects
 
-* 🛍️ Clothing Store Website
-* 🍎 Fruit Shop Website
-* 🪑 Furniture Store Website
-* ☕ Cafe Introduction Website
+🌍 عني
 
----
+أنا محمد مجيب، مطور ويب وفلاتر متكامل من اليمن، شغوف بالبرمجة وحل المشكلات المعقدة. أمتلك خبرة في تطوير تطبيقات الويب وتطبيقات الجوال باستخدام Flutter، وأسعى دائمًا لتعلم أحدث التقنيات لتقديم حلول مبتكرة وفعالة.
 
-## 📫 Contact Me
 
-* 📧 [mohammedmojeep7@gmail.com](mailto:mohammedmojeep7@gmail.com)
 
----
 
-## ⚡ Quote
+🛠️ المهارات التقنية
 
-> "Code is not just code… it's creativity turned into reality." 🚀
+🚀 الواجهة الأمامية (Frontend)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+⚙️ الواجهة الخلفية (Backend)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🗄️ قواعد البيانات والخدمات
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+📱 تطوير تطبيقات الجوال
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+📊 إحصائيات GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🔥 إحصائيات النشاط (Streak Stats)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+📌 مشاريع مميزة
+
+لقد قمت بتطوير مجموعة من المشاريع المميزة التي تعرض مهاراتي في تطوير الويب، بما في ذلك:
+
+•
+🛍️ موقع متجر ملابس: منصة تجارة إلكترونية كاملة الميزات.
+
+•
+🍎 موقع متجر فواكه: واجهة مستخدم جذابة وسهلة الاستخدام لمتجر فواكه.
+
+•
+🪑 موقع متجر أثاث: تصميم عصري ووظائف متكاملة لمتجر أثاث.
+
+•
+☕ موقع تعريفي لمقهى: موقع بسيط وجذاب لعرض معلومات مقهى.
+
+
+
+
+📫 تواصل معي
+
+•
+📧 mohammedmojeep7@gmail.com
+
+
+
+
+⚡ اقتباس
+
+
+"Code is not just code… it's creativity turned into reality." 🚀
+
