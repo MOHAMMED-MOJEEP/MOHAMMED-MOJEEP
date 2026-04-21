@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6499E9,100:0F2027&height=200&section=header&text=MOHAMMED%20MOJEEP&fontSize=40&fontAlignY=35&desc=Full%20Stack%20%7C%20Flutter%20Developer&descAlignY=55&animation=fadeIn" />
 
 <br />
