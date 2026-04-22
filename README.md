@@ -32,18 +32,6 @@
 
 ---
 
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-00C9FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-141E30?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-
-
-
----
-
 ## 🛠️ My Tech Universe
 
 ### 🌐 Web Development (Frontend)
