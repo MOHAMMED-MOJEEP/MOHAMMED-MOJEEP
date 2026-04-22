@@ -24,16 +24,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4FACFE,100:00F5D4&height=5"/>
 </p>
-
-<!-- 🔥 Tech Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-00F5D4?style=for-the-badge&logo=flutter&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Dart-4FACFE?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-00F2FE?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Frontend-4FACFE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-00F5D4?style=for-the-badge"/>
-</p>
-
 <!-- 🌟 Highlight -->
 <p align="center">
   <b>✨ Turning Ideas into Real Products that People Use</b>
