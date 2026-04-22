@@ -15,14 +15,6 @@
 🎯 Clean UI & smooth user experience
 </p>
 
-<!-- Soft Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9DB2BF,100:DDE6ED&height=3"/>
-</p>
-
-<!-- CTA -->
-
-
 <!-- Buttons -->
 <p align="center">
   <a href="mailto:your-email@example.com">
