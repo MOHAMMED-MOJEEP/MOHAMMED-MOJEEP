@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi+I'm+Mohammed+Mojeep;Full+Stack+Developer;Flutter+Expert;Crafting+Modern+Scalable+Apps;Clean+Code+%7C+Creative+Design" />
 </p>
