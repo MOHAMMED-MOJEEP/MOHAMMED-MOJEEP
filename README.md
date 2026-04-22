@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=6C9BCF&center=true&vCenter=true&width=650&lines=MOHAMMED+MOJEEP;Full+Stack+Web+%26+Flutter+Developer" />
 </p>
 
-<!-- Soft Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DDE6ED,100:9DB2BF&height=3"/>
-</p>
-
 <!-- Simple Title -->
 <h3 align="center">
   ✨ Designing & Building Modern, Clean Applications
