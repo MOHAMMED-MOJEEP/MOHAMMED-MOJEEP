@@ -1,8 +1,39 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=260&section=header&text=MOHAMMED%20MOJEEP&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Web%20%26%20Flutter%20Developer&descAlignY=60&fontColor=ffffff&descColor=E0F7FA&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00F260&height=280&section=header&text=MOHAMMED%20MOJEEP&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Web%20%26%20Flutter%20Developer&descAlignY=60&fontColor=ffffff&descColor=CCF8FF&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=550&lines=Hi+I'm+Mohammed+Mojeep;Full+Stack+Web+Developer;Flutter+Developer;Building+Modern+Scalable+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi+I'm+Mohammed+Mojeep;Full+Stack+Developer;Flutter+Expert;Crafting+Modern+Scalable+Apps;Clean+Code+%7C+Creative+Design" />
 </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-3c9e0d4c-7c8e-4baf-8c9c-9b0b3fef5f3a.gif" width="500"/>
+</p>
+
+---
+
+### 🚀 About Me
+
+* 💻 Full Stack Web Developer
+* 📱 Flutter App Developer
+* ⚡ Passionate about building scalable and modern apps
+* 🎯 Focused on performance & clean UI
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,flutter,dart,php,mysql,git,github" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-00C9FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-141E30?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
 
 ---
 
