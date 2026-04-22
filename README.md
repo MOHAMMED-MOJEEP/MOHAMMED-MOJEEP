@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,100:4FACFE&height=4"/>
 </p>
----
+
 
 ### 🚀 About Me
 
@@ -40,19 +40,7 @@
 </p>
 
 
----
 
-## 👋 About Me
-
-<p align="left">
-🚀 <b>Full Stack Web & Flutter Developer</b><br>
-🇾🇪 <b>From Yemen, Sana'a</b>
-</p>
-
-* 💻 **Passionate** about coding & problem solving.
-* 📱 Specialized in developing **high-performance** Mobile Applications.
-* 🌐 Expert in building **scalable and maintainable** Web Applications.
-* 🔥 Continuously learning and integrating new **cutting-edge technologies**.
 
 ---
 
