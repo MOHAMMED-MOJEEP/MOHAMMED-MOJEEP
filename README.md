@@ -1,4 +1,45 @@
+<!-- 🔥 Animated Name -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=2500&pause=800&color=4FACFE&center=true&vCenter=true&width=700&lines=MOHAMMED+MOJEEP;Full+Stack+Developer;Flutter+Developer" />
+</p>
 
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4FACFE,100:00F2FE&height=4"/>
+</p>
+
+<!-- Tagline -->
+<h3 align="center">
+  🚀 Building fast, clean & scalable apps
+</h3>
+
+<!-- Short About -->
+<p align="center">
+💻 Full Stack Developer • 📱 Flutter Developer <br>
+⚡ Focused on performance & clean code <br>
+✨ Turning ideas into real products
+</p>
+
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,100:4FACFE&height=4"/>
+</p>
+
+<!-- CTA -->
+<p align="center">
+  🚀 Open to work <br>
+  📩 Let's build something great
+</p>
+
+<!-- Buttons -->
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-4FACFE?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MOHAMMED-MOJEEP">
+    <img src="https://img.shields.io/badge/My%20Projects-00F2FE?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
 ## 🛠️ My Tech Universe
 
 ### 🌐 Web Development (Frontend)
