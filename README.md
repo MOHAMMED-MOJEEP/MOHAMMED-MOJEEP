@@ -26,10 +26,7 @@
 </p>
 
 <!-- CTA -->
-<p align="center">
-  🚀 Open to work <br>
-  📩 Let’s build your project
-</p>
+
 
 <!-- Buttons -->
 <p align="center">
