@@ -1,18 +1,17 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=MOHAMMED+MOJEEP;Full+Stack+Developer;Flutter+Expert;Building+Modern+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=32&duration=3000&pause=1000&color=4FACFE&center=true&vCenter=true&width=700&lines=MOHAMMED+MOJEEP;Full+Stack+Developer;Flutter+Developer;Building+Clean+Modern+Apps" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00F5D4&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4FACFE,100:00F2FE&height=4"/>
 </p>
 
 <h2 align="center">
-⚡ Clean Code | 🚀 Scalable Apps | 💡 Creative Ideas
+✨ Clean Code • 🚀 Scalable Apps • 💡 Creative Ideas
 </h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:000000&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,100:4FACFE&height=4"/>
 </p>
 ---
 
