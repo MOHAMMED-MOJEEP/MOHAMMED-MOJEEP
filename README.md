@@ -1,4 +1,43 @@
+<!-- 🔥 Animated Name -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=800&lines=MOHAMMED+MOJEEP;Full+Stack+Developer;Flutter+Expert;Building+Scalable+Modern+Apps" />
+</p>
 
+<!-- Gradient Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:4FACFE&height=5"/>
+</p>
+
+<!-- 💼 Professional Tagline -->
+<h2 align="center">
+  🚀 Crafting High-Performance Apps <br>
+  💡 Clean Architecture • Scalable Systems • Modern UI/UX
+</h2>
+
+<!-- Sub Text -->
+<p align="center">
+  Passionate about building real-world solutions using <b>Flutter</b> & <b>Web Technologies</b> <br>
+  Focused on performance, user experience, and clean maintainable code.
+</p>
+
+<!-- Gradient Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4FACFE,100:00F5D4&height=5"/>
+</p>
+
+<!-- 🔥 Tech Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-00F5D4?style=for-the-badge&logo=flutter&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Dart-4FACFE?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-00F2FE?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Frontend-4FACFE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-00F5D4?style=for-the-badge"/>
+</p>
+
+<!-- 🌟 Highlight -->
+<p align="center">
+  <b>✨ Turning Ideas into Real Products that People Use</b>
+</p>
 
 ### 🚀 About Me
 
