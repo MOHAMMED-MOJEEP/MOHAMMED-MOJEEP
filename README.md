@@ -1,43 +1,44 @@
-<!-- 🔹 Animated Name -->
+<!-- 🔹 Elegant Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=6C9BCF&center=true&vCenter=true&width=700&lines=MOHAMMED+MOJEEP;Full+Stack+Web+%26+Flutter+Developer;Building+Real+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1200&color=8FAFC7&center=true&vCenter=true&width=750&lines=MOHAMMED+MOJEEP;Full+Stack+Web+%26+Flutter+Developer;Crafting+Scalable+%26+Elegant+Solutions" />
 </p>
 
 <!-- Soft Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E3EDF7,100:9DB2BF&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F0F4F8,100:B8C6D1&height=2"/>
 </p>
 
 <!-- Title -->
 <h3 align="center">
-  ✨ I design & build scalable digital products
+  Designing seamless digital experiences with precision & purpose
 </h3>
 
-<!-- Smart About -->
+<!-- About -->
 <p align="center">
 💻 Full Stack Web & Flutter Developer <br>
-⚡ Focused on performance, clean architecture & usability <br>
-🚀 I turn ideas into real, production-ready products
+⚙️ Passionate about building scalable, high-performance applications <br>
+🧠 Focused on clean architecture, maintainable code & user-centric design <br>
+🚀 Transforming ideas into reliable, production-ready solutions
 </p>
 
 <!-- Soft Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9DB2BF,100:E3EDF7&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8C6D1,100:F0F4F8&height=2"/>
 </p>
 
 <!-- CTA -->
 <p align="center">
-  🚀 Open to work <br>
-  📩 Let’s build something meaningful
+  🌍 Open to opportunities & collaborations <br>
+  📩 Let’s create something impactful together
 </p>
 
 <!-- Buttons -->
 <p align="center">
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Hire%20Me-9DB2BF?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Contact%20Me-B8C6D1?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/MOHAMMED-MOJEEP">
-    <img src="https://img.shields.io/badge/View%20Projects-E3EDF7?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Explore%20Projects-F0F4F8?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
 
