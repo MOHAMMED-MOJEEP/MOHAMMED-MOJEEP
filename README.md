@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00172D,70:0083B0,100:00B4DB&height=240&section=header&text=MOHAMMED%20MOJEEP&fontSize=50&fontAlignY=35&desc=Full%20Stack%20%7C%20Flutter%20Developer&descAlignY=55&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=260&section=header&text=MOHAMMED%20MOJEEP&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Web%20%26%20Flutter%20Developer&descAlignY=60&fontColor=ffffff&descColor=E0F7FA&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Mohammed+Mojeep;Full+Stack+Developer;Flutter+Developer;Welcome+to+my+GitHub+Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=550&lines=Hi+I'm+Mohammed+Mojeep;Full+Stack+Web+Developer;Flutter+Developer;Building+Modern+Scalable+Apps" />
 </p>
 
 ---
