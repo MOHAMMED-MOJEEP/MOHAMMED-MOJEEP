@@ -21,26 +21,6 @@
 🚀 Transforming ideas into reliable, production-ready solutions
 </p>
 
-<!-- Soft Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8C6D1,100:F0F4F8&height=2"/>
-</p>
-
-<!-- CTA -->
-<p align="center">
-  🌍 Open to opportunities & collaborations <br>
-  📩 Let’s create something impactful together
-</p>
-
-<!-- Buttons -->
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Contact%20Me-B8C6D1?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MOHAMMED-MOJEEP">
-    <img src="https://img.shields.io/badge/Explore%20Projects-F0F4F8?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
-</p>
 
 ## 🛠️ My Tech Universe
 
