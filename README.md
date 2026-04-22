@@ -24,14 +24,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,flutter,dart,php,mysql,git,github" />
-</p>
-
----
-
 ## 🛠️ My Tech Universe
 
 ### 🌐 Web Development (Frontend)
