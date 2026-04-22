@@ -1,14 +1,61 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=MOHAMMED+MOJEEP;Full+Stack+Developer;Flutter+Expert;Building+Modern+Apps" />
-</p>
+<!-- HEADER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00F5D4&height=300&section=header&text=MOHAMMED%20MOJEEP&fontSize=65&fontColor=00F5D4&animation=twinkling&desc=Full%20Stack%20Web%20%26%20Flutter%20Developer&descAlignY=70&descColor=CCFFFF" />
+
+<!-- TYPING -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00F5D4&height=3"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hi+I'm+Mohammed+Mojeep;Full+Stack+Developer;Flutter+Expert;Building+Modern+Scalable+Apps" />
 </p>
 
-<h2 align="center">
-⚡ Clean Code | 🚀 Scalable Apps | 💡 Creative Ideas
-</h2>
+---
+
+<!-- ABOUT -->
+
+### 👨‍💻 About Me
+
+* 💻 Full Stack Web Developer
+* 📱 Flutter Developer
+* ⚡ Focused on Clean Code & Performance
+* 🚀 Building modern and scalable applications
+
+---
+
+<!-- SKILLS -->
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,flutter,dart,php,mysql,git,github" />
+</p>
+
+---
+
+<!-- STATS -->
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MOHAMMED-MOJEEP&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHAMMED-MOJEEP&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<!-- TROPHIES -->
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MOHAMMED-MOJEEP&theme=matrix&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+<!-- FOOTER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:0f2027,100:000000&height=120&section=footer"/>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:000000&height=3"/>
