@@ -23,14 +23,24 @@ I specialize in building high-performance, scalable, and user-centric applicatio
 
 ---
 
-<h2 align="center">💡 Core Strengths</h2>
+<h2 align="center">🚀 Full Stack Core Strengths</h2>
+
 <div align="center">
 
-**Architectural Excellence:** Focused on clean code, modularity, and long-term maintainability.
+✨ **Scalable Architecture Mastery**  
+Designing robust, modular systems for modern web & mobile applications that grow with your vision.
 
-**Performance Optimization:** Crafting applications that are not only beautiful but lightning-fast.
+⚡ **High-Performance Engineering**  
+Building blazing-fast, responsive apps with seamless user experience across all platforms.
 
-**Strategic Problem Solving:** Bridging the gap between business requirements and technical execution.
+🧠 **Smart Problem Solving**  
+Transforming complex business ideas into clean, efficient, and production-ready solutions.
+
+🎨 **Modern UI/UX Craftsmanship**  
+Creating visually stunning interfaces with a strong focus on usability and user engagement.
+
+🔗 **End-to-End Development**  
+From backend logic to frontend design — delivering complete, integrated digital products.
 
 </div>
 
