@@ -6,22 +6,22 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&gradient=120,00B4DB,00172D&height=4&width=300"/>
 </p>
 
-### 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 I specialize in building high-performance, scalable, and user-centric applications. With a strong foundation in both frontend design and backend architecture, I help businesses turn ideas into robust, production-ready software.
 
 ---
 
-### 🛠️ Technical Stack
+<h2 align="center">🛠️ Technical Stack</h2>
 
 | Category | Technologies |
 | :--- | :--- |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind" height="30"/> |
 | **Mobile & Backend** | <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,php,laravel,dotnet" height="30"/> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" height="30"/> <img src="https://skillicons.dev/icons?i=sqlserver" height="30"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlserver" height="30"/> |
 
 ---
 
-### 💡 Core Strengths
+<h2 align="center">💡 Core Strengths</h2>
 
 * **Architectural Excellence:** Focused on clean code, modularity, and long-term maintainability.
 * **Performance Optimization:** Crafting applications that are not only beautiful but lightning-fast.
@@ -29,11 +29,9 @@ I specialize in building high-performance, scalable, and user-centric applicatio
 
 ---
 
-### 📬 Let's Connect
+<h2 align="center">📬 Let's Connect</h2>
 
-*I am currently available for new opportunities and collaborations.*
-
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -51,7 +49,7 @@ I specialize in building high-performance, scalable, and user-centric applicatio
 
 ---
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=MOHAMMED-MOJEEP&label=Profile%20Views&color=0083B0&style=flat-square" />
 </p>
 
