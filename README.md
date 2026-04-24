@@ -7,47 +7,21 @@
 </p>
 
 <h2 align="center">
-  <span style="
-    color:#00F5D4;
-    text-shadow:
-      0 0 5px #00F5D4,
-      0 0 10px #00F5D4,
-      0 0 20px #00F5D4,
-      0 0 40px #00F5D4;
-  ">
+  <span style="color:#00F5D4;text-shadow:0 0 5px #00F5D4,0 0 10px #00F5D4,0 0 20px #00F5D4,0 0 40px #00F5D4;">
     🚀 About Me
   </span>
 </h2>
 
 <div align="center">
+<span style="color:#E0F7FA;text-shadow:0 0 5px rgba(0,245,212,0.6);">
 
-<span style="
-  color:#E0F7FA;
-  text-shadow: 0 0 5px rgba(0,245,212,0.6);
-">
-
-💡 <b>Full Stack Developer | Web & App Specialist</b><br><br>
-
+💡 <b>Full Stack Developer | Web & App Specialist</b><br>
 I craft modern, scalable, and high-performance web & mobile applications from the ground up.<br>
-With a deep understanding of both <b style="color:#00F5D4;">frontend experience</b> and <b style="color:#00F5D4;">backend architecture</b>,  
-I don’t just build apps — I engineer complete digital solutions.<br><br>
-
-⚡ From intuitive UI/UX design to powerful backend systems,<br>
-I turn complex ideas into <b style="color:#00F5D4;">fast, reliable, production-ready products</b>.<br><br>
-
-🎯 My mission:<br>
-<b style="
-  color:#00F5D4;
-  text-shadow:
-    0 0 5px #00F5D4,
-    0 0 10px #00F5D4,
-    0 0 20px #00F5D4;
-">
-Build clean, scalable, and future-proof software.
-</b>
+With a deep understanding of both <b style="color:#00F5D4;">frontend experience</b> and <b style="color:#00F5D4;">backend architecture</b>, I don’t just build apps — I engineer complete digital solutions.<br>
+⚡ From intuitive UI/UX design to powerful backend systems, I turn complex ideas into <b style="color:#00F5D4;">fast, reliable, production-ready products</b>.<br>
+🎯 <b style="color:#00F5D4;text-shadow:0 0 5px #00F5D4,0 0 10px #00F5D4,0 0 20px #00F5D4;">Build clean, scalable, and future-proof software.</b>
 
 </span>
-
 </div>
 
 ---
@@ -61,47 +35,23 @@ Build clean, scalable, and future-proof software.
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" height="30"/> &nbsp; <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="30"/> |
 
 ---
+
 <h2 align="center">
-  <span style="
-    color:#00F5D4;
-    text-shadow:
-      0 0 5px #00F5D4,
-      0 0 10px #00F5D4,
-      0 0 20px #00F5D4;
-  ">
+  <span style="color:#00F5D4;text-shadow:0 0 5px #00F5D4,0 0 10px #00F5D4,0 0 20px #00F5D4;">
     🚀 Full Stack Core Strengths
   </span>
 </h2>
 
-<div align="center" style="max-width:700px; margin:auto; line-height:1.8;">
-
+<div align="center" style="max-width:700px;margin:auto;line-height:1.6;">
 <span style="color:#E0F7FA;">
 
-✨ <b style="color:#00F5D4;">Scalable Architecture Mastery</b>  
-Designing robust, modular systems for modern web & mobile applications that grow with your vision.
-
-<br><br>
-
-⚡ <b style="color:#00F5D4;">High-Performance Engineering</b>  
-Building blazing-fast, responsive apps with seamless user experience across all platforms.
-
-<br><br>
-
-🧠 <b style="color:#00F5D4;">Smart Problem Solving</b>  
-Transforming complex business ideas into clean, efficient, and production-ready solutions.
-
-<br><br>
-
-🎨 <b style="color:#00F5D4;">Modern UI/UX Craftsmanship</b>  
-Creating visually stunning interfaces with a strong focus on usability and user engagement.
-
-<br><br>
-
-🔗 <b style="color:#00F5D4;">End-to-End Development</b>  
-From backend logic to frontend design — delivering complete, integrated digital products.
+✨ <b style="color:#00F5D4;">Scalable Architecture Mastery</b> — Designing robust, modular systems for modern web & mobile applications that grow with your vision.  
+⚡ <b style="color:#00F5D4;">High-Performance Engineering</b> — Building blazing-fast, responsive apps with seamless user experience across all platforms.  
+🧠 <b style="color:#00F5D4;">Smart Problem Solving</b> — Transforming complex business ideas into clean, efficient, and production-ready solutions.  
+🎨 <b style="color:#00F5D4;">Modern UI/UX Craftsmanship</b> — Creating visually stunning interfaces with a strong focus on usability and user engagement.  
+🔗 <b style="color:#00F5D4;">End-to-End Development</b> — From backend logic to frontend design — delivering complete, integrated digital products.
 
 </span>
-
 </div>
 
 ---
