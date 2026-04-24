@@ -1,59 +1,64 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1200&color=0083B0&center=true&vCenter=true&width=750&lines=MOHAMMED+MOJEEP;Full+Stack+Web+%26+Flutter+Developer;Crafting+Scalable+%26+Elegant+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1200&color=0083B0&center=true&vCenter=true&width=750&lines=MOHAMMED+MOJEEP;Full+Stack+Web+%26+Flutter+Developer;Building+Scalable+%26+High-Impact+Digital+Solutions" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&gradient=120,00B4DB,00172D&height=4&width=300"/>
 </p>
 
-<h2 align="center">"تحويل الأفكار إلى حلول برمجية ذكية ومستدامة"</h2>
+<h2 align="center">"Transforming Complex Challenges into Elegant Digital Experiences"</h2>
 
 <p align="center">
-  <b>Full Stack Web & Flutter Developer</b> | <i>شغوف ببناء تجارب رقمية سلسة تعتمد على الكفاءة والقابلية للتوسع.</i>
+  <b>Full Stack Web & Flutter Developer</b> | <i>Architecting robust, scalable, and user-centric software solutions.</i>
 </p>
 
 ---
 
-### 🧠 عني باختصار
+### 🧠 Professional Summary
 <div align="center">
-  منهجيتي في العمل ترتكز على <b>"البساطة في التصميم، والقوة في الأداء"</b>.
-  أساعد الشركات والأفراد على رقمنة أعمالهم من خلال تطوير أنظمة متكاملة، آمنة، وذات واجهات مستخدم متميزة.
+  Results-driven Developer with a passion for clean architecture and high-performance applications. 
+  I specialize in bridging the gap between innovative business requirements and reliable technical implementation. 
+  Committed to writing maintainable code and delivering solutions that drive business growth.
 </div>
 
 ---
 
-### 🛠️ المهارات التقنية (Tech Stack)
+### 🛠️ Technical Expertise
 
-| المجال | التقنيات |
+| Category | Technologies |
 | :--- | :--- |
-| **تطوير الويب (Frontend)** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind" height="30"/> |
-| **الموبايل & الباك إند** | <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,php,laravel,dotnet" height="30"/> |
-| **قواعد البيانات & الأدوات** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,git,figma" height="30"/> |
+| **Frontend Development** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind" height="30"/> |
+| **Mobile & Backend** | <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,php,laravel,dotnet" height="30"/> |
+| **Infrastructure & Tools** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,git" height="30"/> |
 
 ---
 
-### 🚀 لماذا تتعامل معي؟
-* **جودة الكود:** كتابة أكواد نظيفة (Clean Code) قابلة للتطوير والصيانة.
-* **تصميم متمحور حول المستخدم:** بناء واجهات تجذب العميل وتسهل رحلته.
-* **الالتزام:** تسليم مشاريع متوافقة مع معايير السوق الحديثة وفي الوقت المحدد.
+### 🚀 Value Proposition
+* **Clean Code Philosophy:** I prioritize writing scalable, documented, and modular code to ensure long-term project sustainability.
+* **User-Centric Approach:** Focused on delivering seamless, intuitive interfaces that enhance engagement and retention.
+* **Reliability & Efficiency:** Dedicated to agile workflows, ensuring consistent delivery of high-quality, production-ready software.
 
 ---
 
-### 📫 تواصل معي | Let's Collaborate
+### 💼 Professional Links & Contact
 
-*أنا متاح دائماً لمناقشة فرص التعاون أو الاستشارات التقنية.*
+*I am open to discussing new opportunities, collaborations, or technical consultations.*
 
 <p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:mohammedmojeep7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mohammedmojeep7%40gmail.com-00B4DB?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <br><br>
   <a href="https://wa.me/967772067777">
     <img src="https://img.shields.io/badge/WhatsApp-772067777-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://wa.me/967782807337">
     <img src="https://img.shields.io/badge/WhatsApp-782807337-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <br><br>
-  <a href="mailto:mohammedmojeep7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mohammedmojeep7%40gmail.com-00B4DB?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
