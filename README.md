@@ -61,25 +61,46 @@ Build clean, scalable, and future-proof software.
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" height="30"/> &nbsp; <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="30"/> |
 
 ---
+<h2 align="center">
+  <span style="
+    color:#00F5D4;
+    text-shadow:
+      0 0 5px #00F5D4,
+      0 0 10px #00F5D4,
+      0 0 20px #00F5D4;
+  ">
+    🚀 Full Stack Core Strengths
+  </span>
+</h2>
 
-<h2 align="center">🚀 Full Stack Core Strengths</h2>
+<div align="center" style="max-width:700px; margin:auto; line-height:1.8;">
 
-<div align="center">
+<span style="color:#E0F7FA;">
 
-✨ **Scalable Architecture Mastery**  
+✨ <b style="color:#00F5D4;">Scalable Architecture Mastery</b>  
 Designing robust, modular systems for modern web & mobile applications that grow with your vision.
 
-⚡ **High-Performance Engineering**  
+<br><br>
+
+⚡ <b style="color:#00F5D4;">High-Performance Engineering</b>  
 Building blazing-fast, responsive apps with seamless user experience across all platforms.
 
-🧠 **Smart Problem Solving**  
+<br><br>
+
+🧠 <b style="color:#00F5D4;">Smart Problem Solving</b>  
 Transforming complex business ideas into clean, efficient, and production-ready solutions.
 
-🎨 **Modern UI/UX Craftsmanship**  
+<br><br>
+
+🎨 <b style="color:#00F5D4;">Modern UI/UX Craftsmanship</b>  
 Creating visually stunning interfaces with a strong focus on usability and user engagement.
 
-🔗 **End-to-End Development**  
+<br><br>
+
+🔗 <b style="color:#00F5D4;">End-to-End Development</b>  
 From backend logic to frontend design — delivering complete, integrated digital products.
+
+</span>
 
 </div>
 
