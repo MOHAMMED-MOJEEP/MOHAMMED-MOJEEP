@@ -19,7 +19,7 @@ I specialize in building high-performance, scalable, and user-centric applicatio
 | :--- | :--- |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind" height="30"/> |
 | **Mobile & Backend** | <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,php,laravel,dotnet" height="30"/> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlserver" height="30"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" height="30"/> &nbsp; <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="30"/> |
 
 ---
 
