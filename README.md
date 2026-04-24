@@ -7,7 +7,9 @@
 </p>
 
 <h2 align="center">🚀 About Me</h2>
+<div align="center">
 I specialize in building high-performance, scalable, and user-centric applications. With a strong foundation in both frontend design and backend architecture, I help businesses turn ideas into robust, production-ready software.
+</div>
 
 ---
 
@@ -22,10 +24,15 @@ I specialize in building high-performance, scalable, and user-centric applicatio
 ---
 
 <h2 align="center">💡 Core Strengths</h2>
+<div align="center">
 
-* **Architectural Excellence:** Focused on clean code, modularity, and long-term maintainability.
-* **Performance Optimization:** Crafting applications that are not only beautiful but lightning-fast.
-* **Strategic Problem Solving:** Bridging the gap between business requirements and technical execution.
+**Architectural Excellence:** Focused on clean code, modularity, and long-term maintainability.
+
+**Performance Optimization:** Crafting applications that are not only beautiful but lightning-fast.
+
+**Strategic Problem Solving:** Bridging the gap between business requirements and technical execution.
+
+</div>
 
 ---
 
