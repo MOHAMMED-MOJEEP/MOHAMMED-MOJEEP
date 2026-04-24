@@ -6,9 +6,48 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&gradient=120,00B4DB,00172D&height=4&width=300"/>
 </p>
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">
+  <span style="
+    color:#00F5D4;
+    text-shadow:
+      0 0 5px #00F5D4,
+      0 0 10px #00F5D4,
+      0 0 20px #00F5D4,
+      0 0 40px #00F5D4;
+  ">
+    🚀 About Me
+  </span>
+</h2>
+
 <div align="center">
-I specialize in building high-performance, scalable, and user-centric applications. With a strong foundation in both frontend design and backend architecture, I help businesses turn ideas into robust, production-ready software.
+
+<span style="
+  color:#E0F7FA;
+  text-shadow: 0 0 5px rgba(0,245,212,0.6);
+">
+
+💡 <b>Full Stack Developer | Web & App Specialist</b><br><br>
+
+I craft modern, scalable, and high-performance web & mobile applications from the ground up.<br>
+With a deep understanding of both <b style="color:#00F5D4;">frontend experience</b> and <b style="color:#00F5D4;">backend architecture</b>,  
+I don’t just build apps — I engineer complete digital solutions.<br><br>
+
+⚡ From intuitive UI/UX design to powerful backend systems,<br>
+I turn complex ideas into <b style="color:#00F5D4;">fast, reliable, production-ready products</b>.<br><br>
+
+🎯 My mission:<br>
+<b style="
+  color:#00F5D4;
+  text-shadow:
+    0 0 5px #00F5D4,
+    0 0 10px #00F5D4,
+    0 0 20px #00F5D4;
+">
+Build clean, scalable, and future-proof software.
+</b>
+
+</span>
+
 </div>
 
 ---
