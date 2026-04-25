@@ -25,7 +25,11 @@ Building modern websites and mobile apps with clean design and strong performanc
 ---
 
 <h2 align="center">🛠️ Technical Stack</h2>
-
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind" height="30"/> |
+| **Mobile & Backend** | <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,php,laravel,dotnet" height="30"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite" height="30"/> &nbsp; <img src="https://skillicons.dev/icons?i=sqlserver" height="30"/> |
 
 ---
 <h2 align="center">
