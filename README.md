@@ -50,7 +50,7 @@ Building modern websites and mobile apps with clean design and strong performanc
 
 </span>
 </div>
----
+
 
 <h2 align="center">📬 Let's Connect</h2>
 
@@ -67,10 +67,9 @@ Building modern websites and mobile apps with clean design and strong performanc
   </a>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MOHAMMED-MOJEEP&label=Profile%20Views&color=0083B0&style=flat-square" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,70:0083B0,100:00172D&height=100"/>
