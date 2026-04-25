@@ -66,10 +66,3 @@ Building modern websites and mobile apps with clean design and strong performanc
     <img src="https://img.shields.io/badge/WhatsApp-782807337-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MOHAMMED-MOJEEP&label=Profile%20Views&color=0083B0&style=flat-square" />
-</p>
-
