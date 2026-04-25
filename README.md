@@ -23,14 +23,38 @@ Building modern websites and mobile apps with clean design and strong performanc
 </div>
 
 ---
+<h2 align="center">
+  <span style="color:#00F5D4;">🛠️ Technical Stack</span>
+</h2>
 
-<h2 align="center">🛠️ Technical Stack</h2>
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind" height="30"/> |
-| **Mobile & Backend** | <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,php,laravel,dotnet" height="30"/> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite" height="30"/> &nbsp; <img src="https://skillicons.dev/icons?i=sqlserver" height="30"/> |
+<div align="center">
 
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind" />
+
+</td>
+<td align="center" width="33%">
+
+### 📱 Mobile & Backend
+<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,php,laravel,dotnet" />
+
+</td>
+<td align="center" width="33%">
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=sqlserver" />
+
+</td>
+</tr>
+</table>
+
+</div>
 ---
 <h2 align="center">
   <span style="color:#00F5D4;text-shadow:0 0 5px #00F5D4,0 0 10px #00F5D4,0 0 20px #00F5D4;">
