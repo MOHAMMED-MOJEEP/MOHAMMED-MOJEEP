@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&gradient=120,00B4DB,00172D&height=4&width=300"/>
 </p>
-
 <h2 align="center">
   <span style="color:#00F5D4;text-shadow:0 0 5px #00F5D4,0 0 10px #00F5D4,0 0 20px #00F5D4,0 0 40px #00F5D4;">
     🚀 About Me
@@ -15,11 +14,10 @@
 <div align="center">
 <span style="color:#E0F7FA;text-shadow:0 0 5px rgba(0,245,212,0.6);">
 
-💡 <b>Full Stack Developer | Web & App Specialist</b><br>
-I craft modern, scalable, and high-performance web & mobile applications from the ground up.<br>
-With a deep understanding of both <b style="color:#00F5D4;">frontend experience</b> and <b style="color:#00F5D4;">backend architecture</b>, I don’t just build apps — I engineer complete digital solutions.<br>
-⚡ From intuitive UI/UX design to powerful backend systems, I turn complex ideas into <b style="color:#00F5D4;">fast, reliable, production-ready products</b>.<br>
-🎯 <b style="color:#00F5D4;text-shadow:0 0 5px #00F5D4,0 0 10px #00F5D4,0 0 20px #00F5D4;">Build clean, scalable, and future-proof software.</b>
+💡 <b>Full Stack Web Developer & Flutter App Builder</b><br>
+I create modern websites and mobile apps with clean design, smooth performance, and scalable architecture.<br>
+⚡ Specialized in <b style="color:#00F5D4;">Frontend</b>, <b style="color:#00F5D4;">Backend</b>, and <b style="color:#00F5D4;">Flutter</b> development.<br>
+🎯 Building fast, professional, and future-ready digital products.
 
 </span>
 </div>
