@@ -14,10 +14,10 @@
 <div align="center">
 <span style="color:#E0F7FA;text-shadow:0 0 5px rgba(0,245,212,0.6);">
 
-💡 <b>Full Stack Web Developer & Flutter App Builder</b><br>
-I create modern websites and mobile apps with clean design, smooth performance, and scalable architecture.<br>
-⚡ Specialized in <b style="color:#00F5D4;">Frontend</b>, <b style="color:#00F5D4;">Backend</b>, and <b style="color:#00F5D4;">Flutter</b> development.<br>
-🎯 Building fast, professional, and future-ready digital products.
+💡 <b>Full Stack Web Developer & Flutter Developer</b><br>
+Building modern websites and mobile apps with clean design and strong performance.<br>
+⚡ Expert in <b style="color:#00F5D4;">Frontend</b>, <b style="color:#00F5D4;">Backend</b>, and <b style="color:#00F5D4;">Flutter</b>.<br>
+🎯 Fast, scalable, and professional digital solutions.
 
 </span>
 </div>
