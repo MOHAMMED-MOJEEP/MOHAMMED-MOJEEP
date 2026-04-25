@@ -55,9 +55,6 @@ Building modern websites and mobile apps with clean design and strong performanc
 <h2 align="center">📬 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:mohammedmojeep7@gmail.com">
     <img src="https://img.shields.io/badge/Email-mohammedmojeep7%40gmail.com-00B4DB?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
