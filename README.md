@@ -22,7 +22,6 @@ Building modern websites and mobile apps with clean design and strong performanc
 </span>
 </div>
 
----
 <h2 align="center">
   <span style="color:#00F5D4;">🛠️ Technical Stack</span>
 </h2>
@@ -56,7 +55,7 @@ Building modern websites and mobile apps with clean design and strong performanc
 <td>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite" height="30"/>
 &nbsp;
-<img src="https://skillicons.dev/icons?i=sqlserver" height="30"/>
+<img src="https://img.shields.io/badge/SQL_Server_2014-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="30"/>
 </td>
 </tr>
 
