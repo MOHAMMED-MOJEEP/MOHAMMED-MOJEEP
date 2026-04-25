@@ -45,15 +45,14 @@ Building modern websites and mobile apps with clean design and strong performanc
 </td>
 </tr>
 
-<tr>
-<td><b>🗄️ Databases</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite,sqlserver" height="30"/>
-</td>
+<tr> <td><b>🗄️ Databases</b></td>
+  <td> <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite" height="30"/> &nbsp;
+    <img src="https://img.shields.io/badge/SQL_Server_2014-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="30"/>
+  </td>
 </tr>
 
 </table>
----
+
 <h2 align="center">
   <span style="color:#00F5D4;text-shadow:0 0 5px #00F5D4,0 0 10px #00F5D4,0 0 20px #00F5D4;">
     🚀 Full Stack Core Strengths
