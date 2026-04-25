@@ -26,11 +26,6 @@ Building modern websites and mobile apps with clean design and strong performanc
 
 <h2 align="center">🛠️ Technical Stack</h2>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind" height="30"/> |
-| **Mobile & Backend** | <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,php,laravel,dotnet" height="30"/> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" height="30"/> &nbsp; <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="30"/> |
 
 ---
 <h2 align="center">
@@ -60,7 +55,7 @@ Building modern websites and mobile apps with clean design and strong performanc
   </a>
   <br>
   <a href="https://wa.me/967772067777">
-    <img src="https://img.shields.io/badge/WhatsApp-772067777-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-772062777-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://wa.me/967782807337">
     <img src="https://img.shields.io/badge/WhatsApp-782807337-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
