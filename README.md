@@ -33,7 +33,6 @@ Building modern websites and mobile apps with clean design and strong performanc
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" height="30"/> &nbsp; <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="30"/> |
 
 ---
-
 <h2 align="center">
   <span style="color:#00F5D4;text-shadow:0 0 5px #00F5D4,0 0 10px #00F5D4,0 0 20px #00F5D4;">
     🚀 Full Stack Core Strengths
@@ -43,15 +42,14 @@ Building modern websites and mobile apps with clean design and strong performanc
 <div align="center" style="max-width:700px;margin:auto;line-height:1.6;">
 <span style="color:#E0F7FA;">
 
-✨ <b style="color:#00F5D4;">Scalable Architecture Mastery</b> — Designing robust, modular systems for modern web & mobile applications that grow with your vision.  
-⚡ <b style="color:#00F5D4;">High-Performance Engineering</b> — Building blazing-fast, responsive apps with seamless user experience across all platforms.  
-🧠 <b style="color:#00F5D4;">Smart Problem Solving</b> — Transforming complex business ideas into clean, efficient, and production-ready solutions.  
-🎨 <b style="color:#00F5D4;">Modern UI/UX Craftsmanship</b> — Creating visually stunning interfaces with a strong focus on usability and user engagement.  
-🔗 <b style="color:#00F5D4;">End-to-End Development</b> — From backend logic to frontend design — delivering complete, integrated digital products.
+✨ <b style="color:#00F5D4;">Scalable Development</b> — Building modern web & mobile systems ready to grow.  
+⚡ <b style="color:#00F5D4;">High Performance</b> — Fast, responsive, and smooth user experiences.  
+🧠 <b style="color:#00F5D4;">Smart Solutions</b> — Turning ideas into clean and efficient products.  
+🎨 <b style="color:#00F5D4;">Modern UI/UX</b> — Clean interfaces focused on usability.  
+🔗 <b style="color:#00F5D4;">End-to-End Skills</b> — Frontend, backend, and full integration.
 
 </span>
 </div>
-
 ---
 
 <h2 align="center">📬 Let's Connect</h2>
