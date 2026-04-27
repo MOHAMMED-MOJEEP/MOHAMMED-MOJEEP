@@ -41,14 +41,13 @@ Building modern websites and mobile apps with clean design and strong performanc
 <tr>
 <td><b>📱 Mobile & Backend</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,php,laravel,dotnet" height="30"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel,dotnet" height="30"/>
 </td>
 </tr>
 
 <tr> <td><b>🗄️ Databases</b></td>
   <td> <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite" height="30"/> &nbsp;
-    <img src="https://img.shields.io/badge/SQL_Server_2014-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="30"/>
-  </td>
+<img src="https://skillicons.dev/icons?i=mysql" height="30"/>  </td>
 </tr>
 
 </table>
