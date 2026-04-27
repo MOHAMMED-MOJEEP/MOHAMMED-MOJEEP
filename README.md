@@ -50,7 +50,7 @@ Building modern websites and mobile apps with clean design and strong performanc
   <td>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite" height="30"/>
     &nbsp;
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30"/>
   </td>
 </tr>
 
