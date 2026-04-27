@@ -50,10 +50,9 @@ Building modern websites and mobile apps with clean design and strong performanc
   <td>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite" height="30"/>
     &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mssql" height="30"/>
   </td>
 </tr>
-
 </table>
 
 <h2 align="center">
